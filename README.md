@@ -1,8 +1,7 @@
+# E-Commerce Sales Analysis
 End-to-end E-commerce Sales Analysis project using Python, Pandas, MySQL, and Power BI to clean data, perform EDA, analyze sales performance, and build an interactive dashboard.
 
 # E-Commerce Sales Analysis
-
-An end-to-end data analytics project focused on analyzing e-commerce sales data using **Python, Pandas, MySQL, and Power BI**.
 
 ## Project Overview
 
